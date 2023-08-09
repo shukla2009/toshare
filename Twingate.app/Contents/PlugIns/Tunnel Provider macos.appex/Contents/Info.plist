@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Group ID</key>
+	<string>group.com.twingate</string>
+	<key>BuildMachineOSBuild</key>
+	<string>21G531</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>TunnelProvider.macos</string>
+	<key>CFBundleExecutable</key>
+	<string>Tunnel Provider macos</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.twingate.macos.tunnelprovider</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Tunnel Provider macos</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.30</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>4516</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>14B47b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>13.0</string>
+	<key>DTSDKBuild</key>
+	<string>22A372</string>
+	<key>DTSDKName</key>
+	<string>macosx13.0</string>
+	<key>DTXcode</key>
+	<string>1410</string>
+	<key>DTXcodeBuild</key>
+	<string>14B47b</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14B47b</string>
+	<key>Development Team</key>
+	<string>6GX8KVTR9H</string>
+	<key>Environment</key>
+	<string>prod</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>Libsdwan Version</key>
+	<string>0.145.1</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.networkextension.packet-tunnel</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>TunnelProvider</string>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2021 com.twingate. All rights reserved.</string>
+	<key>Sentry DSN</key>
+	<string>https://df2385016b9c4faaab06b37b257fe428@sentry.io/1869637</string>
+</dict>
+</plist>
